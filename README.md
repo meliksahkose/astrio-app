@@ -16,4 +16,4 @@
 - **Stack:** React Native (Expo dev client, Skia rendering) · Supabase (Postgres, Row-Level Security, Edge Functions) · EAS cloud builds · TypeScript strict, ESLint with zero warnings.
 
 ---
-<sub>Source code is private. Happy to walk through the architecture and code in an interview: meliksahkose90@gmail.com</sub>
+<sub>Source code is private. Happy to walk through the architecture and code in an interview: meliksah.kose1@hotmail.com</sub>
